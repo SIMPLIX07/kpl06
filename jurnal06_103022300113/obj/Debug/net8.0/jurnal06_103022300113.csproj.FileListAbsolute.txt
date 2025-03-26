@@ -1,0 +1,15 @@
+C:\tumbal\KPL\jurnal06_103022300113\jurnal06_103022300113\obj\Debug\net8.0\jurnal06_103022300113.GeneratedMSBuildEditorConfig.editorconfig
+C:\tumbal\KPL\jurnal06_103022300113\jurnal06_103022300113\obj\Debug\net8.0\jurnal06_103022300113.AssemblyInfoInputs.cache
+C:\tumbal\KPL\jurnal06_103022300113\jurnal06_103022300113\obj\Debug\net8.0\jurnal06_103022300113.AssemblyInfo.cs
+C:\tumbal\KPL\jurnal06_103022300113\jurnal06_103022300113\obj\Debug\net8.0\jurnal06_103022300113.csproj.CoreCompileInputs.cache
+C:\tumbal\KPL\jurnal06_103022300113\jurnal06_103022300113\obj\Debug\net8.0\jurnal06_103022300113.sourcelink.json
+C:\tumbal\KPL\jurnal06_103022300113\jurnal06_103022300113\bin\Debug\net8.0\jurnal06_103022300113.exe
+C:\tumbal\KPL\jurnal06_103022300113\jurnal06_103022300113\bin\Debug\net8.0\jurnal06_103022300113.deps.json
+C:\tumbal\KPL\jurnal06_103022300113\jurnal06_103022300113\bin\Debug\net8.0\jurnal06_103022300113.runtimeconfig.json
+C:\tumbal\KPL\jurnal06_103022300113\jurnal06_103022300113\bin\Debug\net8.0\jurnal06_103022300113.dll
+C:\tumbal\KPL\jurnal06_103022300113\jurnal06_103022300113\bin\Debug\net8.0\jurnal06_103022300113.pdb
+C:\tumbal\KPL\jurnal06_103022300113\jurnal06_103022300113\obj\Debug\net8.0\jurnal06_103022300113.dll
+C:\tumbal\KPL\jurnal06_103022300113\jurnal06_103022300113\obj\Debug\net8.0\refint\jurnal06_103022300113.dll
+C:\tumbal\KPL\jurnal06_103022300113\jurnal06_103022300113\obj\Debug\net8.0\jurnal06_103022300113.pdb
+C:\tumbal\KPL\jurnal06_103022300113\jurnal06_103022300113\obj\Debug\net8.0\jurnal06_103022300113.genruntimeconfig.cache
+C:\tumbal\KPL\jurnal06_103022300113\jurnal06_103022300113\obj\Debug\net8.0\ref\jurnal06_103022300113.dll

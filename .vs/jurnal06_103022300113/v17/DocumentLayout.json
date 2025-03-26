@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{3D5AC7A5-F1E6-4D2A-9BF1-5BC87460D88B}|jurnal06_103022300113\\jurnal06_103022300113.csproj|c:\\tumbal\\kpl\\jurnal06_103022300113\\jurnal06_103022300113\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D5AC7A5-F1E6-4D2A-9BF1-5BC87460D88B}|jurnal06_103022300113\\jurnal06_103022300113.csproj|solutionrelative:jurnal06_103022300113\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5AC7A5-F1E6-4D2A-9BF1-5BC87460D88B}|jurnal06_103022300113\\jurnal06_103022300113.csproj|c:\\tumbal\\kpl\\jurnal06_103022300113\\jurnal06_103022300113\\sayatubeuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D5AC7A5-F1E6-4D2A-9BF1-5BC87460D88B}|jurnal06_103022300113\\jurnal06_103022300113.csproj|solutionrelative:jurnal06_103022300113\\sayatubeuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5AC7A5-F1E6-4D2A-9BF1-5BC87460D88B}|jurnal06_103022300113\\jurnal06_103022300113.csproj|c:\\tumbal\\kpl\\jurnal06_103022300113\\jurnal06_103022300113\\sayatubevideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D5AC7A5-F1E6-4D2A-9BF1-5BC87460D88B}|jurnal06_103022300113\\jurnal06_103022300113.csproj|solutionrelative:jurnal06_103022300113\\sayatubevideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +22,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SayaTubeVideo.cs",
+              "DocumentMoniker": "C:\\tumbal\\KPL\\jurnal06_103022300113\\jurnal06_103022300113\\SayaTubeVideo.cs",
+              "RelativeDocumentMoniker": "jurnal06_103022300113\\SayaTubeVideo.cs",
+              "ToolTip": "C:\\tumbal\\KPL\\jurnal06_103022300113\\jurnal06_103022300113\\SayaTubeVideo.cs",
+              "RelativeToolTip": "jurnal06_103022300113\\SayaTubeVideo.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwC0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T08:51:36.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SayaTubeUser.cs",
+              "DocumentMoniker": "C:\\tumbal\\KPL\\jurnal06_103022300113\\jurnal06_103022300113\\SayaTubeUser.cs",
+              "RelativeDocumentMoniker": "jurnal06_103022300113\\SayaTubeUser.cs",
+              "ToolTip": "C:\\tumbal\\KPL\\jurnal06_103022300113\\jurnal06_103022300113\\SayaTubeUser.cs",
+              "RelativeToolTip": "jurnal06_103022300113\\SayaTubeUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T08:51:12.854Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +62,7 @@
               "RelativeDocumentMoniker": "jurnal06_103022300113\\Program.cs",
               "ToolTip": "C:\\tumbal\\KPL\\jurnal06_103022300113\\jurnal06_103022300113\\Program.cs",
               "RelativeToolTip": "jurnal06_103022300113\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T08:48:05.792Z",
               "EditorCaption": ""
