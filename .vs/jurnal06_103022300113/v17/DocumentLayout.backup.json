@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\tumbal\\KPL\\jurnal06_103022300113\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5AC7A5-F1E6-4D2A-9BF1-5BC87460D88B}|jurnal06_103022300113\\jurnal06_103022300113.csproj|c:\\tumbal\\kpl\\jurnal06_103022300113\\jurnal06_103022300113\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D5AC7A5-F1E6-4D2A-9BF1-5BC87460D88B}|jurnal06_103022300113\\jurnal06_103022300113.csproj|solutionrelative:jurnal06_103022300113\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\tumbal\\KPL\\jurnal06_103022300113\\jurnal06_103022300113\\Program.cs",
+              "RelativeDocumentMoniker": "jurnal06_103022300113\\Program.cs",
+              "ToolTip": "C:\\tumbal\\KPL\\jurnal06_103022300113\\jurnal06_103022300113\\Program.cs",
+              "RelativeToolTip": "jurnal06_103022300113\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T08:48:05.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
