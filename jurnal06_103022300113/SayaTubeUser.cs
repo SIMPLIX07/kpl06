@@ -51,6 +51,7 @@ namespace jurnal06_103022300113
             Console.WriteLine($"Username: {username}");
             for (int i =0; i <uploadedVideos.Count; i++)
             {
+                Console.Write(uploadedVideos[i].getTitle() + " ");
                 Console.WriteLine($"Video {i + 1} : {uploadedVideos[i].getPlayCount()} views");
             }
         }
